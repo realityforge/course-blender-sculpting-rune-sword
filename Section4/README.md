@@ -9,7 +9,7 @@ This section of the course involved
 * Perform uv unwrapping of all objects to a single uv space. 
 * Scale the UV islands so that the uv space is roughly correlated with 3D space
 * Pack the UV islands on single UV Map
-* Duplicate the file and joing the Low and High collections into a single object
+* Duplicate the file and join the Low and High collections into a single object
 * Export the Low and high objects as separate fbx with "Flat" rendering 
 
 The result of joining and exporting the mesh has not been committed to the repository to avoid incurring cost for storing large assets in Github.
