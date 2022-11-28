@@ -13,13 +13,13 @@ the low-poly mesh was converted into a detaile
 <td>
 <figure>
 <figcaption>Section 1: A render of the low-poly sword</figcaption>
-<img src="imgs/LowPoly.png">
+<img src="img/LowPoly.png">
 </figure> 
 </td>
 <td>
 <figure>
 <figcaption>Section 2: A render of the high-poly sword</figcaption>
-<img src="imgs/HighPoly.png">
+<img src="img/HighPoly.png">
 </figure> 
 </td>
 </tr>
@@ -27,13 +27,13 @@ the low-poly mesh was converted into a detaile
 <td>
 <figure>
 <figcaption>Section 2: A render of the high-poly sword without lights to emphasize the detail</figcaption>
-<img src="imgs/HighPoly_NoLights.png">
+<img src="img/HighPoly_NoLights.png">
 </figure> 
 </td>
 <td>
 <figure>
 <figcaption>Section 2: A close-up render of the high-poly sword without lights to emphasize the detail</figcaption>
-<img src="imgs/HighPoly_NoLights_Close.png">
+<img src="img/HighPoly_NoLights_Close.png">
 </figure> 
 </td>
 </tr>
@@ -41,7 +41,7 @@ the low-poly mesh was converted into a detaile
 <td>
 <figure>
 <figcaption>Section 3: A representation of UV mapping for the objects with all the UV islands present on single sheet</figcaption>
-<img src="imgs/uv-mapping.png">
+<img src="img/uv-mapping.png">
 </figure> 
 </td>
 </tr>
