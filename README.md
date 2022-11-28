@@ -16,8 +16,6 @@ the low-poly mesh was converted into a detaile
 <img src="imgs/LowPoly.png">
 </figure> 
 </td>
-</tr>
-<tr>
 <td>
 <figure>
 <figcaption>Section 2: A render of the high-poly sword</figcaption>
@@ -32,8 +30,6 @@ the low-poly mesh was converted into a detaile
 <img src="imgs/HighPoly_NoLights.png">
 </figure> 
 </td>
-</tr>
-<tr>
 <td>
 <figure>
 <figcaption>Section 2: A close-up render of the high-poly sword without lights to emphasize the detail</figcaption>
