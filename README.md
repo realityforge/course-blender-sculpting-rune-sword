@@ -4,8 +4,9 @@ This contains the work created when completing the course [Blender Sculpting - R
 
 The course involved the creation of a "Rune Sword" model. Section 1 of the course was a
 course introduction. In Section 2, a low-poly mesh of the sword is created. In Section 3,
-the low-poly mesh was converted into a detaile
-
+the resolution of the mesh was increased and fine details were sculpted into the mesh. The
+final section involved decimating the sculpted mesh, realigning the sculpted mesh and the
+low poly mesh and developing a useful UV mapping.
 
 <table width="100%">
 <tbody>
@@ -18,7 +19,7 @@ the low-poly mesh was converted into a detaile
 </td>
 <td>
 <figure>
-<figcaption>Section 2: A render of the high-poly sword</figcaption>
+<figcaption>Section 2: A render of the sculpted sword</figcaption>
 <img src="img/HighPoly.png">
 </figure> 
 </td>
